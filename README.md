@@ -3,5 +3,4 @@ Movie revenue is one important measure of good and bad movies. It also offers im
 
 Data & Methods
 
-We basically use python on Jupyter notebook to do the analysis, including data cleaning and visualization.
-Data comes from open source TMDB 5000 movie dataset (https://www.kaggle.com/tmdb/tmdb-moviemetadata/ data (https://www.kaggle.com/tmdb/tmdb-movie-metadata/data)).
+We basically use python on Jupyter notebook to do the analysis, including data cleaning and visualization.Dataset is obtained fron Kaggle.

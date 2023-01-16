@@ -1,38 +1,7 @@
 # Movie-Correlation-Project
-Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset
-focused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this
-kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the
-movie industry, and get answers.
+Movie revenue is one important measure of good and bad movies. It also offers important and intuitionistic feedback to producers, directors and actors. Therefore, it is worthy to put effort on analyzing what factors affect revenue, so that movie makers know how to get higher revenue on next movie by focusing on most correlated factors. Our project analyzes different kinds of factors, for example, genres, movie elements, popularity, release month, runtime, vote average, vote count on website and cast etc.
 
-# Content
-There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
+Data & Methods
 
-budget: the budget of a movie. Some movies don't have this, so it appears as 0
-
-company: the production company
-
-country: country of origin
-
-director: the director
-
-genre: main genre of the movie.
-
-gross: revenue of the movie
-
-name: name of the movie
-
-rating: rating of the movie (R, PG, etc.)
-
-released: release date (YYYY-MM-DD)
-
-runtime: duration of the movie
-
-score: IMDb user rating
-
-votes: number of user votes
-
-star: main actor/actress
-
-writer: writer of the movie
-
-year: year of release
+We basically use python on Jupyter notebook to do the analysis, including data cleaning and visualization.
+Data comes from open source TMDB 5000 movie dataset (https://www.kaggle.com/tmdb/tmdb-moviemetadata/ data (https://www.kaggle.com/tmdb/tmdb-movie-metadata/data)).

@@ -4,3 +4,6 @@ Movie revenue is one important measure of good and bad movies. It also offers im
 ## Data & Methods
 
 We basically use python on Jupyter notebook to do the analysis, including data cleaning and visualization.Dataset is obtained fron Kaggle.
+
+## Conclusion
+It appears that the relationship between a movie’s budget and its revenue is quite strong—it has a Pearson correlation coefficient of 0.74 in this data. 

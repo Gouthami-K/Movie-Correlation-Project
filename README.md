@@ -6,7 +6,7 @@ Correlation is a statistical measure that describes the relationship between two
 ● A correlation coefficient of -1 indicates a perfect negative correlation, meaning that as one variable increases, the other variable decreases, and vice versa.\
 ● A correlation coefficient of 0 indicates no correlation, meaning that there is no relationship between the variables.\
 ● A correlation coefficient between 0 and 1 (0 < r < 1) indicates a positive correlation, meaning that as one variable increases, the other variable also increases, but the relationship is not perfect.\
-● A correlation coefficient between 0 and -1 (0 > r > -1) indicates a negative correlation, meaning that as one variable increases, the other variable decreases, but the relationship is not perfect.\
+● A correlation coefficient between 0 and -1 (0 > r > -1) indicates a negative correlation, meaning that as one variable increases, the other variable decreases, but the relationship is not perfect.
 
 Correlation can be measured using a number of methods such as the Pearson correlation coefficient, the Spearman rank correlation coefficient, and the Kendall's rank correlation coefficient.
 
